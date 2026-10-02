@@ -1,0 +1,7 @@
+# Senders/domains whose mail is auto-trashed by the weekly job and blocked
+# by a delivery-time Gmail filter (created by the filters phase).
+# Full addresses or bare domains; a domain also matches its subdomains.
+# Keep-list wins if both match.
+# Copy to the repo root as blocked_senders.txt and edit.
+spam-network-domain.example
+specific-sender@example.com

@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.db
+.DS_Store
+
+# User data — never committed
+credentials.json
+token_*.json
+accounts.json
+senders.json
+keep_senders.txt
+blocked_senders.txt
+inbox_cache*.json
+unsubscribe_results.json
+unsubscribe_pending*.json
+unsubscribed_senders.json
+logs/
+CLAUDE.md

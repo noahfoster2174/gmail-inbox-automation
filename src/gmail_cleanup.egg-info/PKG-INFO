@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: gmail-cleanup
+Version: 1.0.0
+Summary: Evidence-based Gmail inbox automation: engagement-aware archiving, layered safety lists, approval-gated unsubscribes
+License: MIT
+Requires-Python: >=3.11
+Requires-Dist: google-api-python-client
+Requires-Dist: google-auth-oauthlib
+Requires-Dist: requests
+Provides-Extra: llm
+Requires-Dist: anthropic; extra == "llm"
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-mock; extra == "dev"
+Requires-Dist: ruff; extra == "dev"

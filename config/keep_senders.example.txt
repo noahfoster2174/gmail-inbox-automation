@@ -1,0 +1,5 @@
+# Senders that must always land in the inbox.
+# One address per line. Lines starting with # are comments.
+# The keep-list beats config routing, marketing detection, and unsubscribe.
+# Copy to the repo root as keep_senders.txt and edit.
+favorite-newsletter@example.com

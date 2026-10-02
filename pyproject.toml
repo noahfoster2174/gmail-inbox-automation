@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gmail-cleanup"
+version = "1.0.0"
+description = "Evidence-based Gmail inbox automation: engagement-aware archiving, layered safety lists, approval-gated unsubscribes"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "google-api-python-client",
+    "google-auth-oauthlib",
+    "requests",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic"]
+dev = ["pytest", "pytest-mock", "ruff"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501"]

@@ -1,0 +1,13 @@
+{
+  "skip_inbox": {
+    "newsletter@example-news.com": "Archive/Newsletters/News_Media",
+    "deals@example-store.com": "Archive/Personal"
+  },
+  "notify": {
+    "receipts@example-bank.com": "Archive/Financial",
+    "shipping@example-shop.com": "Archive/Personal"
+  },
+  "time_sensitive": {
+    "reservations@example-airline.com": "Archive/Travel"
+  }
+}

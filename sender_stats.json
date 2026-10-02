@@ -1,0 +1,986 @@
+{
+"account-update@amazon.com": {
+"read_rate": 0.605,
+"total_count": 43
+},
+"accounts@notifications.acorns.com": {
+"read_rate": 0.303,
+"total_count": 66
+},
+"alerts@account.chime.com": {
+"read_rate": 0.386,
+"total_count": 355
+},
+"alerts@info6.citi.com": {
+"read_rate": 0.348,
+"total_count": 46
+},
+"alumni@umd.edu": {
+"read_rate": 0.821,
+"total_count": 84
+},
+"americanexpress@welcome.americanexpress.com": {
+"read_rate": 0.311,
+"total_count": 222
+},
+"applebooks@insideapple.apple.com": {
+"read_rate": 0.325,
+"total_count": 120
+},
+"applepay@insideapple.apple.com": {
+"read_rate": 0.591,
+"total_count": 44
+},
+"appletv@insideapple.apple.com": {
+"read_rate": 0.437,
+"total_count": 261
+},
+"appstore@insideapple.apple.com": {
+"read_rate": 0.565,
+"total_count": 154
+},
+"asics@info.asics.com": {
+"read_rate": 0.35,
+"total_count": 40
+},
+"auto-confirm@amazon.com": {
+"read_rate": 0.494,
+"total_count": 154
+},
+"automated@airbnb.com": {
+"read_rate": 0.422,
+"total_count": 102
+},
+"avafortgreene@avaapartments.com": {
+"read_rate": 0.545,
+"total_count": 66
+},
+"bballmom210@gmail.com": {
+"read_rate": 1.0,
+"total_count": 43
+},
+"bestbuyinfo@emailinfo.bestbuy.com": {
+"read_rate": 0.971,
+"total_count": 69
+},
+"bestnycparties@gmail.com": {
+"read_rate": 0.763,
+"total_count": 38
+},
+"bodybuilding@news.bodybuilding.com": {
+"read_rate": 1.0,
+"total_count": 38
+},
+"booklovers@thriftbooks-email.com": {
+"read_rate": 0.78,
+"total_count": 246
+},
+"brian@brianferoldi.com": {
+"read_rate": 0.42,
+"total_count": 138
+},
+"burt.foster44@yahoo.com": {
+"read_rate": 0.987,
+"total_count": 158
+},
+"business836167@mindbodyonline.com": {
+"read_rate": 0.375,
+"total_count": 40
+},
+"capitalone@message.capitalone.com": {
+"read_rate": 0.415,
+"total_count": 41
+},
+"capitalone@notification.capitalone.com": {
+"read_rate": 0.35,
+"total_count": 689
+},
+"cash@square.com": {
+"read_rate": 0.944,
+"total_count": 90
+},
+"cfaprogram@cfa-institute.info": {
+"read_rate": 0.923,
+"total_count": 39
+},
+"chase@e.chase.com": {
+"read_rate": 0.588,
+"total_count": 51
+},
+"cherylann@belikebrit.org": {
+"read_rate": 0.328,
+"total_count": 58
+},
+"chime@accounts.chime.com": {
+"read_rate": 0.973,
+"total_count": 37
+},
+"chipotle@email.chipotle.com": {
+"read_rate": 0.431,
+"total_count": 65
+},
+"collegeboard@noreply.collegeboard.org": {
+"read_rate": 1.0,
+"total_count": 54
+},
+"contact@basketball-drills-and-plays.com": {
+"read_rate": 1.0,
+"total_count": 104
+},
+"crew@morningbrew.com": {
+"read_rate": 0.4,
+"total_count": 4590
+},
+"customer_support@email.ticketmaster.com": {
+"read_rate": 0.632,
+"total_count": 57
+},
+"customercare@lululemon.narvar.com": {
+"read_rate": 0.7,
+"total_count": 90
+},
+"daniel@braunswallet.com": {
+"read_rate": 0.493,
+"total_count": 67
+},
+"ddperks@emailinfo.dunkindonuts.com": {
+"read_rate": 0.71,
+"total_count": 69
+},
+"deals@d.slickdeals.net": {
+"read_rate": 1.0,
+"total_count": 56
+},
+"devine555@aol.com": {
+"read_rate": 1.0,
+"total_count": 28
+},
+"digest-noreply@quora.com": {
+"read_rate": 1.0,
+"total_count": 194
+},
+"digital-no-reply@amazon.com": {
+"read_rate": 0.447,
+"total_count": 38
+},
+"discover@airbnb.com": {
+"read_rate": 0.357,
+"total_count": 126
+},
+"discover@service.discover.com": {
+"read_rate": 0.758,
+"total_count": 33
+},
+"discover@services.discover.com": {
+"read_rate": 0.59,
+"total_count": 244
+},
+"do-not-reply@audible.com": {
+"read_rate": 0.387,
+"total_count": 31
+},
+"donotreply@23andme.com": {
+"read_rate": 0.306,
+"total_count": 124
+},
+"donotreply@bankmessage.capitalone.com": {
+"read_rate": 0.625,
+"total_count": 40
+},
+"donotreply@cardmessage.capitalone.com": {
+"read_rate": 0.321,
+"total_count": 28
+},
+"donotreply@newsletter.rockstargames.com": {
+"read_rate": 0.434,
+"total_count": 53
+},
+"douxd@douxds.com": {
+"read_rate": 0.383,
+"total_count": 115
+},
+"draftkings@email.draftkings.com": {
+"read_rate": 0.305,
+"total_count": 128
+},
+"dsg@e.dcsg.com": {
+"read_rate": 0.888,
+"total_count": 107
+},
+"dsg@email.dcsg.com": {
+"read_rate": 1.0,
+"total_count": 58
+},
+"eastbay@e.eastbay.com": {
+"read_rate": 1.0,
+"total_count": 48
+},
+"ebay@ebay.com": {
+"read_rate": 0.486,
+"total_count": 405
+},
+"ebay@reply.ebay.com": {
+"read_rate": 0.643,
+"total_count": 115
+},
+"ebay@reply1.ebay.com": {
+"read_rate": 1.0,
+"total_count": 78
+},
+"ejc@cardpointers.com": {
+"read_rate": 0.339,
+"total_count": 56
+},
+"elinda_kiss@rhsmith.umd.edu": {
+"read_rate": 1.0,
+"total_count": 31
+},
+"email@a.grubhub.com": {
+"read_rate": 0.923,
+"total_count": 26
+},
+"email@e.saveandincrease.com": {
+"read_rate": 0.355,
+"total_count": 31
+},
+"email@email.shopify.com": {
+"read_rate": 0.414,
+"total_count": 58
+},
+"english-digest-noreply@quora.com": {
+"read_rate": 0.841,
+"total_count": 63
+},
+"express@airbnb.com": {
+"read_rate": 0.419,
+"total_count": 136
+},
+"fantasy@espnmail.com": {
+"read_rate": 0.588,
+"total_count": 199
+},
+"fidelity.investments@mail.fidelity.com": {
+"read_rate": 0.383,
+"total_count": 162
+},
+"footlocker@e.footlocker.com": {
+"read_rate": 1.0,
+"total_count": 50
+},
+"forecastingperformance@mail.beehiiv.com": {
+"read_rate": 0.508,
+"total_count": 63
+},
+"fostermnc2008@yahoo.com": {
+"read_rate": 1.0,
+"total_count": 61
+},
+"fpandhey@substack.com": {
+"read_rate": 0.537,
+"total_count": 41
+},
+"gamestop@em.gamestop.com": {
+"read_rate": 0.688,
+"total_count": 32
+},
+"geico@email1.geico.com": {
+"read_rate": 0.576,
+"total_count": 33
+},
+"googlepay-noreply@google.com": {
+"read_rate": 0.318,
+"total_count": 44
+},
+"gsnews@gamestop-email.com": {
+"read_rate": 1.0,
+"total_count": 36
+},
+"harvest@vegogarden.com": {
+"read_rate": 0.419,
+"total_count": 31
+},
+"hello@colatoday.com": {
+"read_rate": 1.0,
+"total_count": 36
+},
+"hello@e.food52.com": {
+"read_rate": 1.0,
+"total_count": 67
+},
+"hello@email.truebill.com": {
+"read_rate": 0.531,
+"total_count": 49
+},
+"hello@m1finance.com": {
+"read_rate": 0.737,
+"total_count": 57
+},
+"hello@manifest.us": {
+"read_rate": 0.359,
+"total_count": 39
+},
+"hello@news.gemini.com": {
+"read_rate": 0.545,
+"total_count": 33
+},
+"hello@nexhealth.com": {
+"read_rate": 0.345,
+"total_count": 29
+},
+"hello@shop.thriftbooks.com": {
+"read_rate": 0.343,
+"total_count": 359
+},
+"help@allbirds.com": {
+"read_rate": 0.972,
+"total_count": 36
+},
+"hollister@e.hollisterco.com": {
+"read_rate": 1.0,
+"total_count": 95
+},
+"hollister@hollister-email.com": {
+"read_rate": 1.0,
+"total_count": 36
+},
+"huddleup@substack.com": {
+"read_rate": 0.42,
+"total_count": 517
+},
+"hulu@hulumail.com": {
+"read_rate": 0.793,
+"total_count": 29
+},
+"id@proxyvote.com": {
+"read_rate": 0.551,
+"total_count": 78
+},
+"important@account.chime.com": {
+"read_rate": 0.346,
+"total_count": 52
+},
+"info@accounts.getquip.com": {
+"read_rate": 0.429,
+"total_count": 35
+},
+"info@brooklynrunningco.com": {
+"read_rate": 0.312,
+"total_count": 32
+},
+"info@crazycups.com": {
+"read_rate": 0.429,
+"total_count": 247
+},
+"info@dailysale.com": {
+"read_rate": 1.0,
+"total_count": 81
+},
+"info@dscc.org": {
+"read_rate": 1.0,
+"total_count": 100
+},
+"info@joebiden.com": {
+"read_rate": 1.0,
+"total_count": 46
+},
+"info@mail.mlblists.com": {
+"read_rate": 0.5,
+"total_count": 68
+},
+"info@mailer.netflix.com": {
+"read_rate": 0.72,
+"total_count": 25
+},
+"info@notifications.acorns.com": {
+"read_rate": 0.323,
+"total_count": 462
+},
+"info@project91nyc.com": {
+"read_rate": 0.341,
+"total_count": 44
+},
+"info@signupgenius.com": {
+"read_rate": 0.372,
+"total_count": 43
+},
+"info@springyjeans.com": {
+"read_rate": 0.854,
+"total_count": 41
+},
+"info@toddsnyder.com": {
+"read_rate": 0.5,
+"total_count": 40
+},
+"info@twitter.com": {
+"read_rate": 0.859,
+"total_count": 191
+},
+"inmail-hit-reply@linkedin.com": {
+"read_rate": 0.471,
+"total_count": 34
+},
+"investments@fundrise.com": {
+"read_rate": 0.457,
+"total_count": 173
+},
+"investors_insights@investorplace.com": {
+"read_rate": 1.0,
+"total_count": 71
+},
+"invitations@linkedin.com": {
+"read_rate": 0.433,
+"total_count": 268
+},
+"jackraines@substack.com": {
+"read_rate": 0.407,
+"total_count": 27
+},
+"jobs-listings@linkedin.com": {
+"read_rate": 0.793,
+"total_count": 121
+},
+"jobs-noreply@linkedin.com": {
+"read_rate": 0.652,
+"total_count": 66
+},
+"loveth@tchicken.popeyes.com": {
+"read_rate": 0.667,
+"total_count": 33
+},
+"mailer-daemon@googlemail.com": {
+"read_rate": 1.0,
+"total_count": 36
+},
+"marathonscience@mail.beehiiv.com": {
+"read_rate": 0.683,
+"total_count": 41
+},
+"marketing@adultswim.com": {
+"read_rate": 0.378,
+"total_count": 37
+},
+"marketplace-messages@amazon.com": {
+"read_rate": 0.306,
+"total_count": 108
+},
+"member.services@disneyaccount.com": {
+"read_rate": 0.603,
+"total_count": 63
+},
+"members@members.biltrewards.com": {
+"read_rate": 0.432,
+"total_count": 88
+},
+"membership@emailalumni.umd.edu": {
+"read_rate": 0.311,
+"total_count": 45
+},
+"messaging-digest-noreply@linkedin.com": {
+"read_rate": 0.488,
+"total_count": 43
+},
+"mint@em1.mint.intuit.com": {
+"read_rate": 0.361,
+"total_count": 740
+},
+"monicatheresekarla.diocades@capitalone.com": {
+"read_rate": 1.0,
+"total_count": 40
+},
+"mynavyfederal@email.nfcu.org": {
+"read_rate": 0.39,
+"total_count": 77
+},
+"nba@fans.nba.com": {
+"read_rate": 1.0,
+"total_count": 46
+},
+"new@applemusic.com": {
+"read_rate": 0.64,
+"total_count": 25
+},
+"news@inrecruit.com": {
+"read_rate": 1.0,
+"total_count": 32
+},
+"news@insideapple.apple.com": {
+"read_rate": 0.51,
+"total_count": 149
+},
+"news@supremenewyork.com": {
+"read_rate": 0.862,
+"total_count": 29
+},
+"newsletter@connect.actionnetwork.com": {
+"read_rate": 0.328,
+"total_count": 1997
+},
+"newsletter@email.ticketmaster.com": {
+"read_rate": 0.692,
+"total_count": 52
+},
+"newsletter@rockemapparel.com": {
+"read_rate": 1.0,
+"total_count": 31
+},
+"newsletter@rockemsocks.com": {
+"read_rate": 0.462,
+"total_count": 39
+},
+"newsletters@email.watchabc.com": {
+"read_rate": 0.473,
+"total_count": 93
+},
+"nfl@e.nfl.com": {
+"read_rate": 1.0,
+"total_count": 32
+},
+"nfl@em.nfl.com": {
+"read_rate": 0.973,
+"total_count": 74
+},
+"nfl@email.nfl.com": {
+"read_rate": 0.755,
+"total_count": 98
+},
+"nich.d.garner@gmail.com": {
+"read_rate": 1.0,
+"total_count": 31
+},
+"nike@official.nike.com": {
+"read_rate": 0.79,
+"total_count": 119
+},
+"no-reply@bloomberg.net": {
+"read_rate": 0.992,
+"total_count": 118
+},
+"no-reply@doordash.com": {
+"read_rate": 0.343,
+"total_count": 67
+},
+"no-reply@em.gemini.com": {
+"read_rate": 0.595,
+"total_count": 274
+},
+"no-reply@eyebuydirect.com": {
+"read_rate": 0.892,
+"total_count": 37
+},
+"no-reply@fantasy.espnmail.com": {
+"read_rate": 0.36,
+"total_count": 75
+},
+"no-reply@getsquire.com": {
+"read_rate": 0.4,
+"total_count": 55
+},
+"no-reply@mail.yelp.com": {
+"read_rate": 0.731,
+"total_count": 26
+},
+"no-reply@marketing.studentuniverse.com": {
+"read_rate": 0.309,
+"total_count": 243
+},
+"no-reply@o.sofi.org": {
+"read_rate": 0.426,
+"total_count": 61
+},
+"no-reply@outreach.pepco.com": {
+"read_rate": 0.326,
+"total_count": 46
+},
+"no-reply@popsugar.com": {
+"read_rate": 1.0,
+"total_count": 33
+},
+"no-reply@rs.email.nextdoor.com": {
+"read_rate": 0.372,
+"total_count": 148
+},
+"no-reply@shop-us.tiktok.com": {
+"read_rate": 0.577,
+"total_count": 26
+},
+"no-reply@spotify.com": {
+"read_rate": 0.351,
+"total_count": 370
+},
+"no-reply@taskrabbit.com": {
+"read_rate": 0.544,
+"total_count": 79
+},
+"no-reply@thriftbooks.com": {
+"read_rate": 0.547,
+"total_count": 53
+},
+"no-reply@youversion.com": {
+"read_rate": 0.983,
+"total_count": 59
+},
+"no-reply@zoom.us": {
+"read_rate": 0.78,
+"total_count": 41
+},
+"no.reply.alerts@chase.com": {
+"read_rate": 0.329,
+"total_count": 164
+},
+"no_reply@email.apple.com": {
+"read_rate": 0.453,
+"total_count": 358
+},
+"noah.foster@capitalone.com": {
+"read_rate": 0.964,
+"total_count": 55
+},
+"noahfoster6@gmail.com": {
+"read_rate": 1.0,
+"total_count": 2008
+},
+"nobody@raptr.com": {
+"read_rate": 1.0,
+"total_count": 39
+},
+"noreply-travel@google.com": {
+"read_rate": 0.429,
+"total_count": 28
+},
+"noreply@e.lululemon.com": {
+"read_rate": 0.533,
+"total_count": 30
+},
+"noreply@email.personalcapital.com": {
+"read_rate": 0.56,
+"total_count": 25
+},
+"noreply@email.usopen.org": {
+"read_rate": 0.474,
+"total_count": 38
+},
+"noreply@everbridge.net": {
+"read_rate": 1.0,
+"total_count": 27
+},
+"noreply@mail.sho.com": {
+"read_rate": 0.304,
+"total_count": 46
+},
+"noreply@redditmail.com": {
+"read_rate": 0.32,
+"total_count": 3104
+},
+"noreply@resy.com": {
+"read_rate": 0.352,
+"total_count": 54
+},
+"noreply@robinhood.com": {
+"read_rate": 0.3,
+"total_count": 1730
+},
+"noreply@streeteasy.com": {
+"read_rate": 0.933,
+"total_count": 45
+},
+"noreply@studentaid.gov": {
+"read_rate": 0.714,
+"total_count": 28
+},
+"noreply@youtube.com": {
+"read_rate": 0.996,
+"total_count": 230
+},
+"notes@e.pnc.com": {
+"read_rate": 0.453,
+"total_count": 53
+},
+"notification+kr4msskbqnma@facebookmail.com": {
+"read_rate": 1.0,
+"total_count": 33
+},
+"notifications@fetchpackage.com": {
+"read_rate": 0.783,
+"total_count": 152
+},
+"notifications@instructure.com": {
+"read_rate": 1.0,
+"total_count": 323
+},
+"notifications@owler.com": {
+"read_rate": 0.369,
+"total_count": 1653
+},
+"notify@buildinglink.com": {
+"read_rate": 0.665,
+"total_count": 188
+},
+"nytdirect@nytimes.com": {
+"read_rate": 0.401,
+"total_count": 649
+},
+"oafa@pitt.edu": {
+"read_rate": 1.0,
+"total_count": 28
+},
+"ocs_ug@rhsmith.umd.edu": {
+"read_rate": 1.0,
+"total_count": 26
+},
+"offers@m.myunidays.com": {
+"read_rate": 0.783,
+"total_count": 92
+},
+"onlinebanking@ealerts.bankofamerica.com": {
+"read_rate": 0.413,
+"total_count": 201
+},
+"order-update@amazon.com": {
+"read_rate": 0.368,
+"total_count": 201
+},
+"orders-1@tickpick.com": {
+"read_rate": 0.387,
+"total_count": 31
+},
+"orders@instacart.com": {
+"read_rate": 0.404,
+"total_count": 52
+},
+"orders@lululemon.com": {
+"read_rate": 0.827,
+"total_count": 52
+},
+"ourstylekicks@gmail.com": {
+"read_rate": 1.0,
+"total_count": 26
+},
+"pacsunonline@m.pacsun.com": {
+"read_rate": 1.0,
+"total_count": 56
+},
+"pacsunonline@pacsun.com": {
+"read_rate": 1.0,
+"total_count": 33
+},
+"paypal@e.paypal.com": {
+"read_rate": 1.0,
+"total_count": 37
+},
+"premium@academia-mail.com": {
+"read_rate": 0.645,
+"total_count": 31
+},
+"rationalreminder1@discoursemail.com": {
+"read_rate": 0.857,
+"total_count": 35
+},
+"relatesystem@relate247.com": {
+"read_rate": 0.821,
+"total_count": 39
+},
+"reply@email.m1finance.com": {
+"read_rate": 0.743,
+"total_count": 284
+},
+"reply@emails.sierraclub.org": {
+"read_rate": 0.975,
+"total_count": 40
+},
+"reply@send.crunchyroll.com": {
+"read_rate": 1.0,
+"total_count": 25
+},
+"reserve-noreply@google.com": {
+"read_rate": 0.449,
+"total_count": 49
+},
+"return@amazon.com": {
+"read_rate": 0.453,
+"total_count": 53
+},
+"rm2527@gmail.com": {
+"read_rate": 0.975,
+"total_count": 40
+},
+"robert_m_daly_dds_pa.sr@e.smilereminder.com": {
+"read_rate": 0.897,
+"total_count": 29
+},
+"scouting-report@mail.theshow.com": {
+"read_rate": 0.458,
+"total_count": 48
+},
+"service@4changeenergy.com": {
+"read_rate": 0.971,
+"total_count": 34
+},
+"service@paypal.com": {
+"read_rate": 0.919,
+"total_count": 86
+},
+"service@personalcapital.com": {
+"read_rate": 0.624,
+"total_count": 101
+},
+"shel@umd.edu": {
+"read_rate": 0.423,
+"total_count": 52
+},
+"shipment-tracking@amazon.com": {
+"read_rate": 0.418,
+"total_count": 251
+},
+"shoeplugusa@gmail.com": {
+"read_rate": 1.0,
+"total_count": 29
+},
+"shop@emails.macys.com": {
+"read_rate": 1.0,
+"total_count": 38
+},
+"smithalumni@umd.edu": {
+"read_rate": 0.567,
+"total_count": 60
+},
+"sorc@umd.edu": {
+"read_rate": 0.867,
+"total_count": 30
+},
+"southwestairlines@ifly.southwest.com": {
+"read_rate": 0.824,
+"total_count": 51
+},
+"southwestairlines@iluv.southwest.com": {
+"read_rate": 0.675,
+"total_count": 83
+},
+"starwars@e.lucasfilm.com": {
+"read_rate": 0.56,
+"total_count": 25
+},
+"subscriptions@moose-labs.com": {
+"read_rate": 0.364,
+"total_count": 33
+},
+"support@account.fanduel.com": {
+"read_rate": 0.483,
+"total_count": 29
+},
+"support@belikebrit.org": {
+"read_rate": 0.3,
+"total_count": 60
+},
+"support@biltrewards.com": {
+"read_rate": 0.816,
+"total_count": 38
+},
+"support@investordelivery.com": {
+"read_rate": 0.428,
+"total_count": 138
+},
+"support@manscaped.com": {
+"read_rate": 0.897,
+"total_count": 29
+},
+"support@s.usa.experian.com": {
+"read_rate": 0.376,
+"total_count": 364
+},
+"support@trustedsite.com": {
+"read_rate": 0.405,
+"total_count": 42
+},
+"team@hello.goldbelly.com": {
+"read_rate": 0.676,
+"total_count": 34
+},
+"team@ivylinecapital-commentaries.com": {
+"read_rate": 0.386,
+"total_count": 70
+},
+"thankyourewards@thankyou.citi.com": {
+"read_rate": 0.306,
+"total_count": 36
+},
+"themove@newsletter.thrillist.com": {
+"read_rate": 0.606,
+"total_count": 726
+},
+"theteam@newyorkcityruns.com": {
+"read_rate": 0.389,
+"total_count": 72
+},
+"today@umd.edu": {
+"read_rate": 1.0,
+"total_count": 26
+},
+"transunion@em-tuci.transunion.com": {
+"read_rate": 0.389,
+"total_count": 54
+},
+"uber.us@uber.com": {
+"read_rate": 0.857,
+"total_count": 70
+},
+"update+kr4msskbqnma@facebookmail.com": {
+"read_rate": 1.0,
+"total_count": 51
+},
+"updates@academia-mail.com": {
+"read_rate": 0.314,
+"total_count": 51
+},
+"updates@email.umterps.com": {
+"read_rate": 0.897,
+"total_count": 58
+},
+"uspsinformeddelivery@email.informeddelivery.usps.com": {
+"read_rate": 0.322,
+"total_count": 329
+},
+"venmo@venmo.com": {
+"read_rate": 0.361,
+"total_count": 4611
+},
+"verify@twitter.com": {
+"read_rate": 0.475,
+"total_count": 202
+},
+"vfe-campaign-response@amazon.com": {
+"read_rate": 0.51,
+"total_count": 98
+},
+"vmullins@e.rhsmith.umd.edu": {
+"read_rate": 0.862,
+"total_count": 29
+},
+"vmullins@rhsmith.umd.edu": {
+"read_rate": 1.0,
+"total_count": 80
+},
+"whatsup@fancy.com": {
+"read_rate": 1.0,
+"total_count": 44
+},
+"workinsports@workinsports.com": {
+"read_rate": 0.889,
+"total_count": 27
+},
+"yo@banditrunning.com": {
+"read_rate": 0.333,
+"total_count": 69
+},
+"ztaylor@mwmembers.io": {
+"read_rate": 0.552,
+"total_count": 58
+},
+"zumiez@eml.zumiez.com": {
+"read_rate": 1.0,
+"total_count": 36
+},
+"zumiez@zumiez.com": {
+"read_rate": 1.0,
+"total_count": 79
+}
+}
